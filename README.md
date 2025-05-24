@@ -7,9 +7,6 @@ A MERN-stack fitness tracker app.
 - [Technology](#Technology)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Contribution](#contribution)
-- [Questions](#questions)
 
 ## Description:
 

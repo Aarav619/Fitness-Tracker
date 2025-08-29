@@ -73,4 +73,4 @@ npm run develop
 Please feel free to contact me if you need any further information:
 
 - [Email](aaravraj619.ar@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
+- [Github Profile](https://github.com/Aarav619)
